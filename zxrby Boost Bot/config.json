@@ -1,0 +1,53 @@
+{
+  "License": "demon1zed-iP534s-rRPToHwaH",
+  "proxyless": true,
+  "timeout": 60,
+  "capService": "hcoptcha",
+  "capKey": "b9ec1743-31ee-4631-aafa-9d279dd2277a",
+  "inviteFieldName": "Invite",
+  "live_stock_msg_channelID": "",
+  "port" : "8080",
+  "paypal_email": "CalvinThomas9279",
+  "discordSettings": {
+    "token": "MTIxODI4ODQ2OTAwOTQ5ODE3Mg.Gn7oLO.oT5J8RH1aOHoskXsnMg75QVqhodZLH5TRmM1qw",
+    "botStatus": "watching",
+    "botActivity": "",
+    "supportServer": "https://discord.gg/boostmaket",
+    "guildID": "1201956459651534848",
+    "owners": ["840305800596422657", "1175129754333089893"],
+    "embedColor": "800080",
+    "logsChannel": "1211154990136172564"
+  },
+  "customPersonalization": {
+    "onliner": false,
+    "displayName" : ".gg/boostmarket",
+    "customBio": "",
+    "customPfp": [""],
+    "customBanner": [""],
+    "status": [""],
+    "statusEmoji": [""]
+  },
+  "sellixAutomationSettings": {
+    "enabled": false,
+    "shopName": "",
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "3_Month_Product_Price" : 1,
+      "1_Month_Product_ID": "",
+      "1_Month_Product_Price" : 1
+    }
+  },
+  "sellappAutomationSettings": {
+    "enabled": false,
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "1_Month_Product_ID": ""
+    }
+  },
+  "sellpassAutomationSettings": {
+    "enabled": false,
+    "apiKey": ""
+  }
+}

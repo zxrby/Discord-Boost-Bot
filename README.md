@@ -6,7 +6,7 @@
     1. Fill Out The Config
     2. Run the script 
 
-
+leaked from boostify owner sold me the src for 10$ LMFAO
 
 
 ## Features

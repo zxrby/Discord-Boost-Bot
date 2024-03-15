@@ -27,11 +27,11 @@ some explainations.
 
 `"live_stock_msg_channelID": ""`, where live stock will be esnt
 
-`"paypal_email": "CalvinThomas9279"`, Ur paypal email
+`"paypal_email": "Paypal"`, Ur paypal email
 
 `"discordSettings": {`,
 
-`  "token": "MTIxODI4ODQ2OTAwOTQ5ODE3Mg.Gn7oLO.oT5J8RH1aOHoskXsnMg75QVqhodZLH5TRmM1qw"`BotToken
+`  "token": "Ur token"`BotToken
 
 `  "botStatus": "watching"`, watching,streaming
 

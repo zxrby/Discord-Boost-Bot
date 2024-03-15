@@ -6,9 +6,6 @@
     1. Fill Out The Config
     2. Run the script 
 
-**Why No Proxy Support?**
-
-
 
 
 
